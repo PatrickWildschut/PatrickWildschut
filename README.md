@@ -1,8 +1,6 @@
 ## whoami
 
-Hi all, I'm Patrick Wildschut from the Netherlands and I like to code and h4ck. Right now, I'm still in highschool (5 Havo) and after that I will study to become a `Software Developer`. But I'm sure I want to do something with `H4CK1NG` later in my life aswell, so I will 'probably' try to get some h4ck3r certificates after I'm done studying Software Developing.
-
-I see myself as a beginner in both coding and hacking :D (although people say I'm not)
+Hi all, I'm Patrick Wildschut from the Netherlands and I like to code and h4ck.
 
 ------------------------------------------------------------------
 
