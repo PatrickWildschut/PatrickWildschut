@@ -1,15 +1,15 @@
 ## whoami
 
-Hi all, I'm Patrick Wildschut from the Netherlands and I like to code and h4ck.
+Hi all, I'm Patrick Wildschut from the Netherlands and I like to code and hack.
 
 ------------------------------------------------------------------
 
 # My History
-I started to code when I was 14 years old and hacking when I was 17 years old.
+I started to code when I was 14 years old and hacking when I was 17 years old. Throughout the years I've gained valuable skills to make nice projects.
 
 -------------------------------------------------------------
 
 # This GitHub
-This GitHub has a lot of `Private/Hidden Repositories` because I don't want people to steal my code or just spy on me L0L. The repositories that are `Public` usually contain scripts and tools that I don't really care about.
+This GitHub has a lot of `Private/Hidden Repositories` because of unfinished projects. The repositories that are `Public` are the projects that I am proud of and I want to share with the world!
 
 
